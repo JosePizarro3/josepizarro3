@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML, React**
 
-- 📝 I regularly active on Twitter [@JosePizarroB](https://twitter.com/JosePizarroB)
+- 📝 I am active on Twitter [@JosePizarroB](https://twitter.com/JosePizarroB)
 
 - 💬 Ask me anything about **Condensed Matter Physics, Python, Fortran**
 
