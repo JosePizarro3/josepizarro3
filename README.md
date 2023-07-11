@@ -11,7 +11,7 @@
 
 - 💬 Ask me anything about **Condensed Matter Physics, Python, Fortran**
 
-- 📫 How to reach me **chemapizarroblanco@gmail.com**
+- 📫 How to reach me: **chemapizarroblanco@gmail.com**
 
 - ⚡ In my free time **I like to read, paint miniatures ([@njpainting20](https://www.instagram.com/njpainting20/)), and spend time with my friends 🍻**
 
