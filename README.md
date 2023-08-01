@@ -15,11 +15,6 @@
 
 - ⚡ In my free time **I like to read, paint miniatures ([@njpainting20](https://www.instagram.com/njpainting20/)), and spend time with my friends 🍻**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/josepizarrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josepizarrob" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jose-pizarro-blanco-68931ab3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose pizarro blanco" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
