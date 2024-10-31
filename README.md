@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José M. Pizarro</h1>
-<h3 align="center">A doctor in Physics with a big passion on Software Development and Data Science</h3>
+<h3 align="center">A Ph.D. in Physics with a big passion on Materials Science, Research Data Management, and Software Development</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jose-pizarro-blanco-68931ab3/">
@@ -23,5 +23,4 @@ Check out my Github profile page:
   <summary>Github Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=JosePizarro3&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePizarro3&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
