@@ -10,7 +10,7 @@
   </a>
 </p>
 
-🔭 I’m currently working as a Research Data Management expert in [FAIRmat](https://www.fairmat-nfdi.eu/fairmat/).
+🔭 I’m currently working as a Research Data Management expert in the [eScience group](https://bamescience.github.io/) at [BAM](https://www.bam.de/Navigation/EN/Home/home.html).
 
 Check out my Github profile page:
 
