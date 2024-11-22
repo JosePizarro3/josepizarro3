@@ -22,5 +22,7 @@ Check out my Github profile page:
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=JosePizarro3&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JosePizarro3?cardType=level&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JosePizarro3&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </details>
