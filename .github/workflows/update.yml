@@ -21,7 +21,8 @@ jobs:
           SETTING_JSON: ./3d-profile-settings.json
       - name: Move files
         run: |
-          mv ./profile-3d-contrib/profile-3d.svg ./profile-3d.svg
+          mv ./profile-3d-contrib/day.svg ./day.svg
+          mv ./profile-3d-contrib/night.svg ./night.svg
           rm -rf ./profile-3d-contrib
       - name: Commit & Push
         run: |
